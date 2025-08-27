@@ -1,7 +1,7 @@
 # 🐾 Gatito Petshop – Dashboard de Vendas
 
-(![Gatito Dashboard_page-0001](https://github.com/user-attachments/assets/1b5c16a8-f01a-4599-8ff4-2420046fb4fb)
-)
+[Gatito Dashboard_page-0001](https://github.com/user-attachments/assets/1b5c16a8-f01a-4599-8ff4-2420046fb4fb)
+
 
 ---
 
