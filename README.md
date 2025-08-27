@@ -1,6 +1,7 @@
 # 🐾 Gatito Petshop – Dashboard de Vendas
 
-![Dashboard Preview](Gatito%20Dashboard_page-0001.jpg)
+![Dashboard Preview](![Gatito Dashboard_page-0001](https://github.com/user-attachments/assets/1b5c16a8-f01a-4599-8ff4-2420046fb4fb)
+)
 
 ---
 
@@ -45,15 +46,6 @@ Este dashboard foi desenvolvido no **Power BI** para análise de desempenho do *
 
 ---
 
-## 🎨 Design  
-
-O layout foi pensado para ser **intuitivo e agradável**, com:  
-- Paleta de cores em **roxo, lilás e amarelo**;  
-- KPIs destacados no topo;  
-- Gráficos organizados em blocos visuais claros;  
-- Identidade visual alinhada à marca **Gatito Petshop**.  
-
----
 
 ## 🚀 Conclusão  
 
@@ -62,4 +54,3 @@ O dashboard do **Gatito Petshop** oferece uma visão clara e objetiva sobre o de
 - 📍 Localização geográfica  
 - ⏳ Evolução temporal  
 
-Essas informações apoiam a **tomada de decisão estratégica**, ajudando a identificar oportunidades de crescimento e otimização das operaç
